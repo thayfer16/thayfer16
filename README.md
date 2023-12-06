@@ -21,16 +21,15 @@
    <ul>
                 <li class="option-item">
                     <h3>Opção 1</h3>
-                    <img class="op-donuts" src="imgs/option-donut.jpg" alt="">
+ <img class="op-donuts" src="imgs/option-donut.jpg" alt="">
                 </li>
                 
    <li class="option-item">
                     <h3>Opção 2</h3>
-                    <img class="op-donuts" src="imgs/option-donut.jpg" alt="">
+  <img class="op-donuts" src="imgs/option-donut.jpg" alt="">
                 </li>
                 <li class="option-item">
-                <h3>Opção 3</h3>
-                    <img class="op-donuts" src="imgs/option-donut.jpg" alt="">
+                <h3>Opção 3 </h3>h3>       <img class="op-donuts" src="imgs/option-donut.jpg" alt="">
       </li>    
       </ul>
    </div>
